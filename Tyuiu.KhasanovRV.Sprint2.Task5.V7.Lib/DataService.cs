@@ -19,7 +19,7 @@ namespace Tyuiu.KhasanovRV.Sprint2.Task5.V7.Lib
                     n -= 12;
                 }
             }
-            switch (n) 
+            switch (n)
             {
                 case 1:
                     res = "Февраль";
@@ -69,12 +69,12 @@ namespace Tyuiu.KhasanovRV.Sprint2.Task5.V7.Lib
                     res = "Январь";
                     break;
 
-            
+
 
             }
 
             return res;
-        }   
+        }
 
     }
 }

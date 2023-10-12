@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{262CF90A-41AA-4469-9B25-140F536511A8}</ProjectGuid>
+    <ProjectGuid>{1E97CAE4-DDFF-4F52-827C-1F945083A2C1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.KhasanovRV.Sprint2.Task4.V7.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.KhasanovRV.Sprint2.Task4.V7.Lib</AssemblyName>
+    <RootNamespace>Tyuiu.KhasanovRV.Sprint2.Task5.V7.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.KhasanovRV.Sprint2.Task5.V7.Lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
