@@ -15,7 +15,7 @@ namespace Tyuiu.KhasanovRV.Sprint2.Task2.V23
             Console.Title = "Спринт #2 | Выполнил: Хасанов Р. В. | СМАРТб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Операции сравнения                                                *");
+            Console.WriteLine("* Тема: Оператор if - полная и короткая форма записи                      *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #23                                                             *");
             Console.WriteLine("* Выполнил: Хасанов Ренат Владиславович | СМАРТб-23-1                     *");
