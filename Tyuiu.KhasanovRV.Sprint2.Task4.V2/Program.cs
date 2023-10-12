@@ -29,6 +29,7 @@ namespace Tyuiu.KhasanovRV.Sprint2.Task4.V2
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
             double x, y;
+            
             Console.WriteLine("Введите значение переменной X:");
             x = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Введите значение переменной Y:");
